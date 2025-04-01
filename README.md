@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-# TITULO
-## Subtitulo
-### sub sub titulo
+# Ice Limonade
+## querido profesor: Jeronimo rojas
+### Estoooo
 *cursiva*
 **negrita**
-*** negrita y cursiva ***
+***negrita y cursiva***
 ~~Sandra Sergent~~
 
 1.  hola
