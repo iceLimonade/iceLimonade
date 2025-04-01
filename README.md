@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**iceLimonade/iceLimonade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# TITULO
+## Subtitulo
+### sub sub titulo
+*cursiva*
+**negrita**
+*** negrito y cursiva ***
+~~ tachado ~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. hola
+2. como estas 
+3. esres pepsi cola?
+4. eres wifi?
+5. siento una gran conexion 
+
+* asterisco y el elemento
+* y asi vas 
+
+-*_
+* una tabla mmgvo 
+
+| columna 1 
+|columna 2
+
+|----------
+|---------
+- [x] tarea completada 
+- [] tarea incompleta
