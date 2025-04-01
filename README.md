@@ -6,8 +6,8 @@
 ### sub sub titulo
 *cursiva*
 **negrita**
-*** negrito y cursiva ***
-~~tachado~~
+*** negrita y cursiva ***
+~~Sandra Sergent~~
 
 1.  hola
 2.  como estas 
