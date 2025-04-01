@@ -7,18 +7,18 @@
 *cursiva*
 **negrita**
 *** negrito y cursiva ***
-~~ tachado ~~
+~~tachado~~
 
-1. hola
-2. como estas 
-3. esres pepsi cola?
-4. eres wifi?
-5. siento una gran conexion 
+1.  hola
+2.  como estas 
+3.  esres pepsi cola?
+4.  eres wifi?
+5.  siento una gran conexion 
 
 * asterisco y el elemento
 * y asi vas 
 
--*_
+- * _
 * una tabla mmgvo 
 
 | columna 1 
